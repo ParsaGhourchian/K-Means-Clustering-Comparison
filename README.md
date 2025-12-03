@@ -1,4 +1,3 @@
-✅ README (English Version)
 KMeans Clustering Comparison: Raw vs Processed Data
 
 This project demonstrates how data preprocessing impacts clustering performance by comparing KMeans clustering results on raw data and processed (cleaned/transformed) data.
